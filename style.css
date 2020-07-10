@@ -8,3 +8,10 @@ p{
 strong{
     color:#ff0000;
 }
+#monId{
+    font-weight: bold;
+}
+.maClasse{
+    text-decoration: underline;
+    color:blue;
+}
